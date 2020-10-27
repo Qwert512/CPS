@@ -1,2 +1,2 @@
 # CPS
-Handy CPS-Counter in Java
+Useful CPS-Counter in Java
